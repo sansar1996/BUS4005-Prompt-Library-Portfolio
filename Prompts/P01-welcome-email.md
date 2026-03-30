@@ -150,3 +150,4 @@ A store hiring 4 employees/month can save **~324 hours annually across multiple 
 - **Next:** P02 — Induction schedule  
 - **Used with:** P03 — Role briefing  
 - **Workflow:** Onboarding automation system
+

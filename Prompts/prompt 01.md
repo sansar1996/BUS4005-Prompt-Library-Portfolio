@@ -11,6 +11,7 @@
 ## 📌 Prompt Text (v1.2 — current)
 
 > Copy this exactly into your AI tool. Replace all `[PLACEHOLDERS]` before running.
+
 You are an HR onboarding specialist for a retail company.
 
 Draft a warm, professional welcome email for a new [JOB_TITLE] joining
